@@ -1,6 +1,6 @@
 # hi, i'm Sohan 
 
-3rd year CS @ Wilfrid Laurier · Currently interning @ RBC
+4th year CS @ Wilfrid Laurier · Prev SWE Intern @ RBC
 
 ---
 
